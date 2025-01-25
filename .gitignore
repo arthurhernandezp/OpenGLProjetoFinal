@@ -1,0 +1,35 @@
+# Ignorar arquivos de configuração de projetos do Visual Studio
+*.vcxproj
+*.vcxproj.*
+*.sln
+
+# Ignorar outros arquivos do Visual Studio
+.vs/
+*.user
+*.suo
+*.ipch
+*.log
+*.tlog/
+*.lastbuildstate
+*.idb
+*.pdb
+*.obj
+*.pch
+*.ilk
+*.aps
+*.ncb
+*.res
+*.exe
+*.dll
+*.lib
+*.tmp
+*.sqlite
+
+# CMake e pastas de build
+CMakeFiles/
+CMakeCache.txt
+build/
+out/
+Debug/
+Release/
+
