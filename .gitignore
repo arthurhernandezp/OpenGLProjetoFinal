@@ -33,3 +33,5 @@ out/
 Debug/
 Release/
 
+#Ignorar scripts
+*.ps1
